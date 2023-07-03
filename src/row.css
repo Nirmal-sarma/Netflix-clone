@@ -7,13 +7,16 @@
 .row_posters::-webkit-scrollbar {
 display:-webkit-flex;
 }
+
 .row{
     margin: 20px;
     color: #fff;
 }
+
 h2{
     padding-bottom: 20px;
 }
+
 .row_poster{
     
     object-fit:contain;
